@@ -42,15 +42,6 @@ urlpatterns = [
 
 
 #=======
-<<<<<<< HEAD
-    #path('hobby/',include('hobby.urls')),
-    #path('food/',include('food.urls')),
-    #path('health/',include('health.urls')),
-    #path('book_media/',include('book_media.urls')),
-    #path('science_technology/',include('science_technology.urls')),
-    #path('childrens_books/',include('childrens_books.urls')),
-    #path('gadgets/',include('gadgets.urls')),
-=======
     path('hobby/',include('hobby.urls')),
     path('food/',include('food.urls')),
     path('health/',include('health.urls')),
@@ -58,7 +49,6 @@ urlpatterns = [
     path('science_technology/',include('science_technology.urls')),
     path('childrens_books/',include('childrens_books.urls')),
     path('gadgets/',include('gadgets.urls')),
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
 #>>>>>>> 926376c (server side commite)
     
 

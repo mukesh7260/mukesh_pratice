@@ -82,11 +82,7 @@ class SendPasswordResetEmailSerializer(serializers.Serializer):
             print('Password Reset Token:', token)
 
             # Create the reset password link
-<<<<<<< HEAD
-            base_url = '127.0.0.1:8000' if settings.DEBUG else 'https://holanine.icu'
-=======
             base_url = '127.0.0.1:8000' if settings.DEBUG else 'https://demoadmin.hola9.com'
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
             link = f'{base_url}/api/user/reset-password/{uid}/{token}'
 
             # Construct the email content

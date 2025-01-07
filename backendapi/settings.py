@@ -13,21 +13,12 @@ SECRET_KEY = 'django-insecure-3dy!tq&dteytu=zfj2)k%*u0dt9ws&1(j8nsu!^3-3th5^*f^=
 DEBUG = True
 
 #<<<<<<< HEAD
-<<<<<<< HEAD
-#ALLOWED_HOSTS = ['127.0.0.1','holanine.icu']
-# ALLOWED_HOSTS = ['192.168.1.8']
-
-#CSRF_TRUSTED_ORIGINS = ['https://*.holanine.icu','https://*.127.0.0.1']
-#=======
-ALLOWED_HOSTS = ['139.59.9.70','demoadmin.hola9.com']
-=======
 ALLOWED_HOSTS = ['127.0.0.1','holanine.icu']
 # ALLOWED_HOSTS = ['192.168.1.8']
 
 CSRF_TRUSTED_ORIGINS = ['https://*.holanine.icu','https://*.127.0.0.1']
 #=======
 ALLOWED_HOSTS = ['127.0.0.1','139.59.9.70','demoadmin.hola9.com']
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
 # ALLOWED_HOSTS = ['192.168.1.8']
 
 #CSRF_TRUSTED_ORIGINS = ['https://*.holanine.icu','https://*.127.0.0.1']
@@ -63,10 +54,7 @@ INSTALLED_APPS = [
     'openMoney',
     # 'payu'
     'django_cron',
-<<<<<<< HEAD
-=======
     
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
     'hobby',
     'food',
     'health',
@@ -261,16 +249,6 @@ PAYU_MODE = "TEST"
 
 
 
-<<<<<<< HEAD
-#CRON_CLASSES = [
-
- #   'adsapi.cron.MyCronJob',  # Replace 'your_app_name' with your app's name
-
-#<<<<<<< HEAD
-#]
-#=======
-#]
-=======
 CRON_CLASSES = [
 
     'adsapi.cron.MyCronJob',  # Replace 'your_app_name' with your app's name
@@ -279,5 +257,4 @@ CRON_CLASSES = [
 ]
 #=======
 
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
 #>>>>>>> 926376c (server side commite)

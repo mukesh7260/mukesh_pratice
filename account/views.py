@@ -1311,9 +1311,5 @@ class ProfileList1(APIView):
 #<<<<<<< HEAD
             return Response("User ID not provided", status=status.HTTP_400_BAD_REQUEST) 
 #=======
-<<<<<<< HEAD
- #           return Response("User ID not provided", status=status.HTTP_400_BAD_REQUEST)
-=======
             return Response("User ID not provided", status=status.HTTP_400_BAD_REQUEST)
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
 #>>>>>>> 926376c (server side commite)

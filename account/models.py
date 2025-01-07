@@ -56,11 +56,7 @@ class User(AbstractBaseUser):
   is_active = models.BooleanField(default=True)
   is_admin = models.BooleanField(default=False)
   created_at = models.CharField(max_length=150,null=False,blank=False ,default=date.today)
-<<<<<<< HEAD
-  phoneNumber=models.CharField(max_length=2322,null=False,default=False)
-=======
   phoneNumber=models.CharField(max_length=2322,null=False,default=False,blank=False)
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
   updated_at = models.DateTimeField(auto_now=True)
   auth_provider = models.CharField(
         max_length=255, blank=False,

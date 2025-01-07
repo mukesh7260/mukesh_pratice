@@ -24,11 +24,7 @@ class Gadgets(models.Model):
     category = models.CharField(max_length=50, choices=CATEGORY_CHOICES)
 
     def save(self, *args, **kwargs):
-<<<<<<< HEAD
-        if Item.objects.filter(photo=self.photo).count() >= 12:
-=======
         if Gadgets.objects.filter(photo=self.photo).count() >= 12:
->>>>>>> 8a72e49cd22e840587db7c1423cb1ca18330101d
             raise ValueError("You can upload only up to 12 photos.")
         super().save(*args, **kwargs)
 
