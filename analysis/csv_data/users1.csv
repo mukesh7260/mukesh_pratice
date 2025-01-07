@@ -1,0 +1,91 @@
+text/csvemail,name,tc,is_active,is_admin,created_at,phoneNumber,updated_at,auth_provider
+admin@gmail.com,admin,True,True,True,2022-08-31,909090909090,2022-09-02 07:29:30.612459+00:00,email
+hola9.sanjay@gmail.com,Hola9 Technology,True,True,False,2022-08-31,null,2022-09-02 07:29:30.619589+00:00,email
+hola9.sourabh@outlook.com,Sourabh,False,True,False,2022-08-31,False,2022-09-02 07:29:30.623542+00:00,email
+tech.hola9@gmail.com,Hola9 Technologies,True,True,False,2022-08-31,null,2022-09-02 07:29:30.627511+00:00,email
+srishtisrija@gmail.com,Srishti Mishra,True,True,False,2022-08-31,null,2022-09-02 07:29:30.631414+00:00,email
+plochan582@gmail.com,Padmalochan Barik,True,True,False,2022-08-31,null,2022-10-04 09:14:17.937915+00:00,email
+sdahil@gmail.com,srishti,True,True,False,2022-08-31,null,2022-09-02 07:29:30.638929+00:00,email
+barik99@gmail.com,Padmalochan Barik,True,True,False,2022-08-31,null,2022-09-02 07:29:30.643492+00:00,email
+subhasis123@gmail.com,Subhasis Barik,True,True,False,2022-08-31,null,2022-09-02 07:29:30.646983+00:00,email
+sahila@gmail.com,srishti,True,True,False,2022-08-31,null,2022-09-02 07:29:30.650847+00:00,email
+vgagan312@gmail.com,Gagan Verma,True,True,False,2022-08-31,null,2022-09-02 09:39:33.476726+00:00,email
+sourabhpatil3459@gmail.com,Sourabh Patil,True,True,False,2022-08-31,null,2022-09-02 07:29:30.658140+00:00,email
+gaganvarma312@gmail.com,Gagan Varma,True,True,False,2022-08-31,8889928181,2022-09-02 07:29:30.661840+00:00,email
+jayaborule02@gmail.com,Jaya Borule,True,True,False,2022-08-31,9993914399,2022-09-02 07:29:30.665615+00:00,email
+kuravaharinath996@gmail.com,KURAVA HARINATH,True,True,False,2022-08-31,null,2022-09-02 07:29:30.669341+00:00,email
+tgkrishna1234@gmail.com,krishna tirumalasetty,True,True,False,2022-08-31,null,2022-09-02 07:29:30.672839+00:00,email
+krameshkumar8523@gmail.com,Ramesh kumar,True,True,False,2022-08-31,null,2022-09-02 07:29:30.676304+00:00,email
+anuj8401211084@gmail.com,ANUJ SHARMA,True,True,False,2022-08-31,8400952502,2022-09-02 07:29:30.679607+00:00,email
+hari@gmail.com,hari,True,True,False,2022-08-31,1234556,2022-09-02 07:29:30.683372+00:00,email
+atifaslam@gmail.com,atifaslam,True,True,False,2022-08-31,null,2022-09-02 07:29:30.686990+00:00,email
+TGK@gmail.com,Gopikrishna,True,True,False,2022-08-31,7680984310,2022-09-02 07:29:30.691088+00:00,email
+shashi@gmail.com,shashi,True,True,False,2022-08-31,null,2022-09-02 07:29:30.694916+00:00,email
+nammo@gmail.com,nammo,True,True,False,2022-08-31,null,2022-09-02 07:29:30.698343+00:00,email
+srishtisrijaaaa@gmail.com,nammo,True,True,False,2022-08-31,null,2022-09-02 07:29:30.702137+00:00,email
+arzuu@gmail.com,arzuu,True,True,False,2022-08-31,null,2022-09-02 07:29:30.705623+00:00,email
+aarohii@gmail.com,aarohii,True,True,False,2022-08-31,null,2022-09-02 07:29:30.709151+00:00,email
+aarohiiya@gmail.com,aarohiiya,True,True,False,2022-08-31,null,2022-09-02 07:29:30.712876+00:00,email
+namitaa@gmail.com,namita,True,True,False,2022-08-31,null,2022-09-02 07:29:30.715989+00:00,email
+thisoneonorehwoijfdsoifds@gmail.com,shashi,True,True,False,2022-08-31,null,2022-09-02 07:29:30.719728+00:00,email
+srishtifdsafdsfdsaafsrija@gmail.com,dfsafds,True,True,False,2022-08-31,null,2022-09-02 07:29:30.723514+00:00,email
+srishtifdsfdsafsrija@gmail.com,shashi,True,True,False,2022-08-31,null,2022-09-02 07:29:30.727064+00:00,email
+fdsafdafdsafdsadf@gmail.com,fdsfdsfd,True,True,False,2022-08-31,null,2022-09-02 07:29:30.730484+00:00,email
+srishtifdsafdsrija@gmail.com,fhdskafjd,True,True,False,2022-08-31,null,2022-09-02 07:29:30.733865+00:00,email
+srifsdfasdshtisrija@gmail.com,fdsaf,True,True,False,2022-08-31,null,2022-09-02 07:29:30.737312+00:00,email
+srishtfsdfdsisrija@gmail.com,nammo,True,True,False,2022-08-31,null,2022-09-02 07:29:30.744468+00:00,email
+srishtisrifdsfdsfdsfja@gmail.com,arzuu,True,True,False,2022-08-31,null,2022-09-02 07:29:30.748104+00:00,email
+srifdsafdsfashtisrija@gmail.com,nammo,True,True,False,2022-08-31,null,2022-09-02 07:29:30.751536+00:00,email
+srisfdsafdsafhtisrija@gmail.com,aarohii,True,True,False,2022-08-31,null,2022-09-02 07:29:30.754764+00:00,email
+sasadrishtisrija@gmail.com,shashi,True,True,False,2022-08-31,null,2022-09-02 07:29:30.758099+00:00,email
+sahilroy@gmail.com,Sahil Roy,True,True,False,2022-08-31,null,2022-09-02 07:29:30.762294+00:00,email
+sahil@gmail.com,Sahil Roy,True,True,False,2022-08-31,null,2022-09-02 07:29:30.766369+00:00,email
+deep@gmail.com,Sahil Deep,True,True,False,2022-08-31,null,2022-09-02 07:29:30.770007+00:00,email
+anuj840084@gmail.com,Anuj Sharma,True,True,False,2022-08-31,null,2022-09-02 07:29:30.773577+00:00,email
+kadalisomasekhar.python@gmail.com,kadali somasekhar,True,True,False,2022-08-31,null,2022-09-02 07:29:30.777233+00:00,email
+kuravaharinath1996@gmail.com,harinath k,True,True,False,2022-08-31,null,2022-09-02 07:29:30.781315+00:00,email
+sharmashalivi0@gmail.com,Shalivi Sharma,True,True,False,null,null,2022-09-20 12:53:38.340483+00:00,email
+mi3183228@gmail.com,Mohd Imran,True,True,False,null,null,2022-09-21 10:01:03.451690+00:00,email
+shvidya44@gmail.com,Vidya Shinde,True,True,False,null,null,2022-09-23 05:04:16.006633+00:00,email
+vjdec08@gmail.com,vj245677,True,True,False,null,9595489789,2022-10-27 05:46:31.265309+00:00,email
+kadalisomasekher44@gmail.com,sekhar,False,True,False,2022-10-10,False,2022-10-10 05:11:34.223907+00:00,email
+kumar@123gmail.com,kumar,False,True,False,null,False,2022-10-10 05:18:41.944808+00:00,email
+sunil@gmail.com,sunil,True,True,False,null,null,2022-10-10 05:45:03.284798+00:00,email
+ram@gmail.com,ram,True,True,False,null,null,2022-10-10 05:57:04.622959+00:00,email
+msrishti526@gmail.com,srishti mishra,True,True,False,null,null,2022-11-04 07:16:36.169006+00:00,email
+spgiri2020@gmail.com,Sarang Giri,True,True,False,null,null,2022-10-14 10:21:49.153845+00:00,email
+hola9.rangaswamy@outlook.com,ranga,True,True,False,null,8123465032,2022-10-21 10:19:27.004298+00:00,email
+srishtisrijan@gmail.com,srija,True,True,False,null,9340083841,2022-10-31 12:00:46.610562+00:00,email
+sahiyal@gmail.com,sahliya,True,True,False,null,null,2022-10-31 12:12:52.136556+00:00,email
+tgktgk74@gmail.com,gopi,True,True,False,null,9606910685,2022-11-03 05:32:13.875036+00:00,email
+IMR@gmail.com,imran,True,True,False,null,987643123,2022-11-07 07:14:21.793459+00:00,email
+IR@gmail.com,imran1,True,True,False,null,987643123,2022-11-07 07:15:32.111291+00:00,email
+I1@gmail.com,imran3,True,True,False,null,987643123,2022-11-07 07:17:14.890327+00:00,email
+I@gmail.com,imran3,False,True,False,null,987643123,2022-11-07 07:17:39.252363+00:00,email
+33@gmail.com,imran3,False,True,False,null,987643123,2022-11-07 09:12:15.692449+00:00,email
+test@gmail.com,test,True,True,False,null,9876543210,2022-11-07 09:12:41.079014+00:00,email
+whitehr.com@gmail.com,WhiteHR Consultancy services,True,True,False,null,null,2022-11-07 09:17:48.856674+00:00,email
+test3a@gmail.com,test,True,True,False,null,1234567890,2022-11-07 09:57:00.046485+00:00,email
+daw@gmail.com,dwada,True,True,False,null,9876543210,2022-11-07 09:57:35.443392+00:00,email
+ret@gmail.com,testt,True,True,False,null,9876543210,2022-11-07 12:56:40.536294+00:00,email
+test44@gmail.com,test2,True,True,False,null,9876543210,2022-11-07 12:58:12.973732+00:00,email
+ret2@gmail.com,testt12,True,True,False,null,9876543210,2022-11-07 12:59:52.738082+00:00,email
+itest@gmail.com,shataksh,True,True,False,null,9876543210,2022-11-07 13:16:38.216643+00:00,email
+Imran12@gmail.com,Mohd Imran,True,True,False,2022-11-24,8310948925,2022-11-24 07:41:15.210587+00:00,email
+sidd@gmail.com,Imran siddiqui,True,True,False,2022-11-24,8310948925,2022-11-24 07:46:19.596375+00:00,email
+rahul@gmail.com,Imran,True,True,False,2022-11-24,8310948934,2022-11-24 07:49:59.640371+00:00,email
+shreyas@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 07:55:20.153499+00:00,email
+shreya1s@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 07:56:58.885141+00:00,email
+shreya23@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 08:00:26.764943+00:00,email
+shreya232@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 08:04:45.989370+00:00,email
+shreya23332@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 08:05:55.146136+00:00,email
+shreya2332@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 08:07:22.173953+00:00,email
+shreya23532@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 08:57:38.478693+00:00,email
+shreyas23532@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 09:00:57.759766+00:00,email
+shreydas23532@gmail.com,shreyas,True,True,False,2022-11-24,8310328934,2022-11-24 09:01:52.462828+00:00,email
+shreyddas23532@gmail.com,shreyas,True,True,False,2022-11-24,8310328934,2022-11-24 09:07:12.093327+00:00,email
+shreyddasa23532@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 09:13:34.641173+00:00,email
+d@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 09:20:55.595647+00:00,email
+da@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 09:24:26.985209+00:00,email
+daa@gmail.com,shreyas,False,True,False,2022-11-24,8310328934,2022-11-24 09:25:49.162458+00:00,email
+rakesh@gmail.com,rakesh,False,True,False,2022-11-28,7411183636,2022-11-28 11:11:10.810885+00:00,email

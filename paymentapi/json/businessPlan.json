@@ -1,0 +1,46 @@
+{
+    "Premium": { 
+        "user": "",
+        "category": "Premium",
+        "selectads": 0,
+        "selectmonths": 0,
+        "visiblity": 2,
+        "city": "",
+        "teleSupport": 0,
+        "chatSupport": 0,
+        "dedicatedRm": 0,
+        "hola9Website": 0,
+        "adscategory": {
+            "realestate": 100,
+            "Furnitures": 299,
+            "pets": 299,
+            "bikes": 299,
+            "cars": 299,
+            "electronics": 299,
+            "mobiles": 299,
+            "services": 299
+        } 
+    },
+    "Featured": {
+        "user": "",
+        "category": "Featured",
+        "selectads": 0,
+        "selectmonths": 0,
+        "visiblity": 5,
+        "city": "",
+        "teleSupport": 0,
+        "chatSupport": 0,
+        "dedicatedRm": 0,
+        "hola9Website": 0,
+        "adscategory": {
+            "realestate": 299,
+            "furniture": 299,
+            "pets": 299,
+            "bikes": 299,
+            "cars": 299,
+            "electronics": 299,
+            "mobiles": 299,
+            "services": 299
+        }
+    }
+}

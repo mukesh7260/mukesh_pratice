@@ -1,0 +1,60 @@
+{
+    "Free": {
+        "user": "",
+        "category": "Free",
+        "days": 7,
+        "regulars": 3,
+        "topAds": 0,
+        "featured": 0,
+        "teleSupport": 0,
+        "response": "Limited",
+        "chatSupport": 0,
+        "dedicatedRm": 0,
+        "hola9Website": 0,
+        "validity": 15
+        
+    },
+    "Silver": {
+        "user": "",
+        "category": "Silver",
+        "days": 15,
+        "regulars": 5,
+        "topAds": 2,
+        "featured": 3,
+        "teleSupport": 1,
+        "response": "Unlimited",
+        "chatSupport": 0,
+        "dedicatedRm": 0,
+        "hola9Website": 0,
+        "validity": 30
+
+    },
+    "Gold": {
+        "user": "",
+        "category": "Gold",
+        "days": 30,
+        "regulars": 10,
+        "topAds": 5,
+        "featured": 5,
+        "teleSupport": 1,
+        "response": "Unlimited",
+        "chatSupport": 1,
+        "dedicatedRm": 1,
+        "hola9Website": 0,
+        "validity": 90
+    },
+    "Platinum": {
+        "user": "",
+        "category": "Platinum",
+        "days": 60,
+        "regulars": 10,
+        "topAds": 5,
+        "featured": 5,
+        "teleSupport": 1,
+        "response": "Unlimited",
+        "chatSupport": 1,
+        "dedicatedRm": 1,
+        "hola9Website": 1,
+        "validity": 90
+    }
+}

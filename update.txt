@@ -1,0 +1,9 @@
+
+profile api response too slow---clickup---Pending
+
+https://databytess.com/api/payment/create_token    -- verified customer token not generating--Pending
+
+ 
+first check login api ---second update blogs api post method--and test that api
+
+
